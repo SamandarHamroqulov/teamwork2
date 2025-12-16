@@ -1,4 +1,4 @@
-// Write JS code
+
 let URL = "https://www.omdbapi.com/?s=marvel&apikey=dba0f2cd";
 
 async function getMovies() {
